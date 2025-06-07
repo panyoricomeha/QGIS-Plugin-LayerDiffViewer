@@ -1,0 +1,15 @@
+[general]
+name=LayerDiffViewer
+qgisMinimumVersion=3.0
+version=1.0.0
+description=Visualize differences between geometries.
+about=This plugin allows you to compare two vector layers and visually highlight differences. \
+It detects attribute changes, geometry changes, newly added features, and deleted features. \
+Results are shown in a new memory layer with categorized colors for each change type.
+
+author=panyoricomeha
+email=panyoricomeha6466@gmail.com
+icon=icons/icon.png
+homepage=https://github.com/panyoricomeha/QGIS-Plugin-LayerDiffViewer
+tracker=https://github.com/panyoricomeha/QGIS-Plugin-LayerDiffViewer/issues
+repository=https://github.com/panyoricomeha/QGIS-Plugin-LayerDiffViewer.git
